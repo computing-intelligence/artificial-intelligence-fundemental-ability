@@ -1,0 +1,13 @@
+# Transfer Learning
+
+> 很少有人会自己从头到尾的来构建模型
+
++ tensorflow 还是pytorch，常见、经典的模型结构全部都是已经封装好了,我们在这些基础之上做修改
++ 在Github等这些开源地方，我们找stars多的人
++ Kaggle, 天池比赛这种地方，找一些优秀的案例
+
+
++ 科学家/工程师们发现，一个深度神经网络，前边层数的CNN layers的权重是很接近的
++ TaskA: 提取竖着的边沿 -> 提取横着的边沿 -> 提取圆形的部分
++ TaskB: 提取竖着的边沿 -> 提取横着的边沿 -> 提取圆形的部分
++ TaskA, TaskB 的前三层的 Fitlers 的 Paramters 很接近

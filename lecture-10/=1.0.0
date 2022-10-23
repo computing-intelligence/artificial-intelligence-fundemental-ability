@@ -1,0 +1,3 @@
+Looking in indexes: https://pypi.douban.com/simple
+Requirement already satisfied: pyarrow in /Users/gaominquan/anaconda3/lib/python3.7/site-packages (5.0.0)
+Requirement already satisfied: numpy>=1.16.6 in /Users/gaominquan/anaconda3/lib/python3.7/site-packages (from pyarrow) (1.21.0)
