@@ -2,12 +2,12 @@
 
 From heurstic searching to machine learning, and to deep learning finally. 
 
-#### Lesson-01: AI foundation
+####Lesson-01: AI foundation
 	+ Rule Based AI
 	+ Dynamic Programming 
 	+ Water Pouring Problem, Searching Problem; 
 	+ Gradient Descent; 
-#### Lesson-02: 
+####Lesson-02: 
 	+ Dynamic Programming Continue
 	+ K-means, to find geo-centers in Chinese Map
 #### Lesson-03: 
@@ -38,4 +38,4 @@ From heurstic searching to machine learning, and to deep learning finally.
 	+ ResNet
 	+ GoogLeNet, Inception
 	+ Transfer Learning
-![image](https://user-images.githubusercontent.com/6982171/206889488-2240d7e0-8496-476e-981a-097dd51431bd.png)
+
